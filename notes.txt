@@ -1,0 +1,18 @@
+QUERIES:
+
+Load the contract from data/example_contract.pdf
+
+### email: Missing Information
+Dear ASSISTANT,
+
+The technologies used are Java and Javascript.
+###
+
+An e-mail has been received. Continue to follow your instructions.
+
+### email2: Missing Information 2
+Dear ASSISTANT,
+
+The signing location is Brasilia.
+
+###
